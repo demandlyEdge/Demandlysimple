@@ -4,9 +4,4 @@
 User-agent: *
 Allow: /
 
-# Block crawlers from any future admin or API routes
-Disallow: /api/
-Disallow: /admin/
-
-# Sitemap location — update domain to your real domain
-Sitemap: https://demandly.ai/sitemap.xml
+Sitemap: https://www.getdemandly.site/sitemap.xml
